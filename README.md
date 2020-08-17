@@ -1,3 +1,3 @@
 # -new_repo-
 
-Готовое задание находится в trello-test.py
+Готовое задание находится в trello_test.py
